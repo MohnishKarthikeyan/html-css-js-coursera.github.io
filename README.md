@@ -1,4 +1,4 @@
-# Html-Css-JS-Coursera
+# HTML-CSS-JS-Coursera
 >Coursera test repository.
 > There are 2 Branches:
 - Main
