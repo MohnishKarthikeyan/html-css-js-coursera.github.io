@@ -1,5 +1,5 @@
 # HTML CSS AND JS COURSE
-## THIS REPOSITARY IS FOR HTML CSS AND JS PRACTICE EXERCISE
-> HTML
-> CSS
-> JAVASCRIPTS
+## This repository is for html, css and js practice exercises.
+- HTML
+- CSS
+- JAVASCRIPTS
